@@ -1,0 +1,30 @@
+{
+  "name": "another-rest-client",
+  "authors": [
+    "joe <terma95@gmail.com>"
+  ],
+  "description": "Simple REST API client that makes your code lesser and more beautiful than without it.",
+  "main": "rest-client.js",
+  "keywords": [
+    "rest"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Amareis/another-rest-client",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {},
+  "version": "0.5.0",
+  "_release": "0.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.0",
+    "commit": "6907d2b8a12d3fc7684e3584819cf51cba773e56"
+  },
+  "_source": "https://github.com/Amareis/rest-client.git",
+  "_target": "^0.5.0",
+  "_originalSource": "another-rest-client",
+  "_direct": true
+}
